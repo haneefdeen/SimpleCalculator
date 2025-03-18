@@ -7,6 +7,9 @@ A stylish and responsive calculator built with **HTML, CSS, and JavaScript**. Fe
 ## 🚀 Technologies Used  
 - **HTML5** – Structure & layout  
 - **CSS3** – Styling with flexbox, grid, and animations  
-- **JavaScript** – Logic for performing calculations  
+- **JavaScript** – Logic for performing calculations
+
+  ---
+**Deploy link:https://asimplecalc.netlify.app/**
 
 
